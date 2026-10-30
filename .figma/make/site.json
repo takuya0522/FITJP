@@ -1,0 +1,10 @@
+{
+  "description": "This app enhances health and wellness for urban individuals aged 20-50 by providing body measurements, nutrition tracking, and personalized fitness insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
